@@ -2,11 +2,7 @@
 #include <stdlib.h>
 
 #define MAX_QUEUE_SIZE 5
-/*
-typedef struct {
-	element 
-} Employee;
-*/
+
 typedef struct {
 	int id;
 	int arrival_time;
